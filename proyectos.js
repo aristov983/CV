@@ -11,7 +11,7 @@ const PROYECTOS = [
   {
     titulo: "Cenova",
     subtitulo: "Plataforma para gestionar gimnasios",
-    fecha: "2026 · 2.º semestre",
+    fecha: "4.º semestre de la carrera",
     contexto: "Desarrollo Web y Mobile — Universidad Católica del Uruguay",
     descripcion:
       "Plataforma web y mobile para la gestión integral de un gimnasio: socios, membresías y pagos en un solo lugar. Cada socio entra a ver la rutina que su entrenador le asignó para el día. Proyecto en equipo, desplegado en producción con dominio propio.",
